@@ -1,3 +1,3 @@
 # GITDEMO
 
-This is README file for GITDEMO
+This is the README file for GITDEMO
